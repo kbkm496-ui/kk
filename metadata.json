@@ -1,0 +1,6 @@
+{
+  "name": "QuizCast PC Agent Studio",
+  "description": "Personal PC agent and broadcast production studio for automating, rendering, and packaging YouTube quiz and trivia videos.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
